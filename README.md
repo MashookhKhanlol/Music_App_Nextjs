@@ -31,7 +31,7 @@ Tune Tutor is a modern and interactive music course website designed to provide 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Node.js](https://nodejs.org/)
 
-![image](https://github.com/user-attachments/assets/78e74c2d-13d8-4ea4-b524-1ae61f9833e5)
+![image](https://github.com/user-attachments/assets/6c932b1c-1562-42a1-a914-ab31bd340e78)
 ![image](https://github.com/user-attachments/assets/dee5d65b-5b40-4062-84d2-2694c1008160)
 
 

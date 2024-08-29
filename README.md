@@ -1,33 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tune Tutor
 
-## Getting Started
+Tune Tutor is a modern and interactive music course website designed to provide users with a seamless learning experience. This platform offers a user-friendly interface and dynamic content to enhance the process of learning music online.
 
-First, run the development server:
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+- Interactive music courses
+- User-friendly interface
+- Dynamic content delivery
+- Seamless learning experience
+
+## Benefits
+- Enhanced learning with interactive courses
+- Intuitive and modern user interface
+- Dynamic and responsive design
+- Efficient backend support for smooth operations
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [Acertinity UI](https://acertinity-ui-link)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/)
+
+[image](https://github.com/user-attachments/assets/78e74c2d-13d8-4ea4-b524-1ae61f9833e5)
+[image](https://github.com/user-attachments/assets/dee5d65b-5b40-4062-84d2-2694c1008160)
+
+
+
+## Installation
+
+Follow these steps to set up Tune Tutor locally:
 
 ```bash
+# Clone the repository
+git clone https://github.com/MashookhKhanlol/Music_App_Nextjs/tree/master
+
+# Navigate to the project directory
+cd Music_App_Nextjs
+
+# Install dependencies
+npm install
+
+# Start the application
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
